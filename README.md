@@ -1,4 +1,4 @@
 # zerocubes-up
 ---
-permalink: /index.html
+permalink: index.html
 ---
